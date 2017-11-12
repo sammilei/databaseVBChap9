@@ -1,0 +1,11 @@
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\bin\Debug\PayablesData1.pdb
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\bin\Debug\PayablesData1.xml
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.vbprojResolveAssemblyReference.cache
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData.Resources.resources
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.vbproj.GenerateResource.Cache
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.vbproj.CoreCompileInputs.cache
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.xml
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.pdb
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData.FmInvoiceVendor.resources
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\bin\Debug\PayablesData1.exe
+D:\PCC Study study!!!\SMC\database\Murach_using\ADO.NET 4 VB\Book Applications\Chapter 09\PayablesData1\PayablesData1\obj\Debug\PayablesData1.exe
